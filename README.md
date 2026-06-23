@@ -17,9 +17,22 @@ A command-line calculator that supports:
 
 Project files: [`calculator/`](calculator/)
 
+### CSV File Reader
+
+A Python program that reads and displays information from a CSV file.
+
+Skills demonstrated:
+
+- Reading CSV files
+- Working with dictionaries
+- File-path handling with `pathlib`
+- Missing-file error handling
+- Missing-column validation
+
+Project files: [`csv-reader/`](csv-reader/)
+
 ## Planned Projects
 
-- CSV Reader
 - API Fetcher
 - JSON Practice
 - Error Handling Examples
