@@ -22,8 +22,17 @@ The program reads a small file containing names, ages and cities, then displays 
 
 View the project here: [`csv-reader/`](csv-reader/)
 
+### GitHub Profile Fetcher
+
+I built this project to practise working with APIs in Python.
+
+The program asks for a GitHub username, gets public profile information from the GitHub API and displays it in the terminal.
+
+While building it, I practised sending requests, reading JSON data and handling connection errors.
+
+View the project here: [`api-fetcher/`](api-fetcher/)
+
 ## Projects I Plan to Build
 
-- API Fetcher
 - JSON Practice
 - Error Handling Examples
