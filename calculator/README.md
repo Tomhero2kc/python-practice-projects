@@ -1,15 +1,21 @@
 # Simple Calculator
 
-A beginner Python calculator that performs:
+This is a basic command-line calculator I created while learning Python.
+
+The calculator asks the user to enter two numbers and choose an operation.
+
+## What It Can Do
 
 - Addition
 - Subtraction
 - Multiplication
 - Division
+- Handle division by zero
+- Handle invalid number entries
 
-It also handles invalid input and division by zero.
+## How to Run It
 
-## How to run
+From the main repository folder, run:
 
 ```bash
-python calculator.py
+python calculator/calculator.py
