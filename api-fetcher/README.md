@@ -13,17 +13,15 @@ The program asks for a GitHub username, sends a request to the GitHub API and di
 - Followers
 - Following
 
-## How to Run It
+## Running the Project
 
-Install the Requests library:
+I ran the project from the main repository folder.
+
+First, I installed the `requests` package:
 
 ```bash
 pip install requests
-```
 
-Run the program from the main repository folder:
-
-```bash
 python api-fetcher/api_fetcher.py
 ```
 
