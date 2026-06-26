@@ -1,21 +1,15 @@
 # CSV File Reader
 
-A beginner Python project that reads and displays information from a CSV file.
+This is a small Python project I created to practise working with CSV files.
 
-## Features
+The program reads information from `sample_data.csv` and displays each person's name, age and city in the terminal.
 
-- Reads CSV files using Python's built-in `csv` module
-- Displays each row clearly
-- Handles missing files
-- Handles missing columns
-- Uses `pathlib` to locate the CSV file
+## Project Files
 
-## Files
+- `csv_reader.py` contains the Python code
+- `sample_data.csv` contains the sample information
 
-- `csv_reader.py` — contains the Python program
-- `sample_data.csv` — contains the example data
-
-## How to Run
+## How to Run It
 
 From the main repository folder, run:
 
