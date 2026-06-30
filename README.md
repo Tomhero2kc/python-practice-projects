@@ -32,7 +32,16 @@ While building it, I practised sending requests, reading JSON data and handling 
 
 View the project here: [`api-fetcher/`](api-fetcher/)
 
+
+### Simple Contact List
+
+I created this project to practise reading and saving information in JSON files.
+
+The program displays saved contacts and allows the user to add a new contact. New contacts are saved in the JSON file for the next time the program runs.
+
+View the project here: [`json-practice/`](json-practice/)
+
+
 ## Projects I Plan to Build
 
-- JSON Practice
 - Error Handling Examples
